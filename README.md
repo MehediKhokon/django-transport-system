@@ -5,7 +5,7 @@ This is a transport system that contains a list of vehicle and customer can book
 
 - Python
 - django
-- class based views (ListView, DetailView)
+- class based views (ListView, DetailView, DeleteView)
 - html, css, Bootstrap
 
 #### live link
