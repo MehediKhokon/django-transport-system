@@ -12,4 +12,5 @@ This is a transport system that contains a list of vehicle and customer can book
 _no live view_
 
 ### Screenshot
-[url=https://postimg.cc/DW9X91hh][img]https://i.postimg.cc/DW9X91hh/car-view.png[/img][/url] [url=https://postimg.cc/S2cMkjQM][img]https://i.postimg.cc/S2cMkjQM/passenger-view.png[/img][/url] 
+[![passenger-view.png](https://i.postimg.cc/1tjc0NLJ/passenger-view.png)](https://postimg.cc/S2cMkjQM)
+[![car-view.png](https://i.postimg.cc/RFFLnTbW/car-view.png)](https://postimg.cc/DW9X91hh)
