@@ -1,7 +1,7 @@
 # Djago Transport System
 A transport system with django backend <br>
 This is a transport system that contains a list of vehicle and customer can book vehicle for specific period of time.
-#### Dependency list
+#### Stack list
 
 - Python
 - django
